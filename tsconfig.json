@@ -1,4 +1,5 @@
 {
+  "exclude": ["excluded.ts", "./variables/excluded2.ts"], // Exclude files to compile to .js
   "compilerOptions": {
     /* Basic Options */
     // "incremental": true,                   /* Enable incremental compilation */

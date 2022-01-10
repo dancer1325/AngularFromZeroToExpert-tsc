@@ -11,7 +11,7 @@
 // saludar(wolverine.nombre);
 // 2) Anonymous function Auto-invoked === Base of module pattern of js
 // --> Typescript doesn't identify duplicated code in .js and .ts file
-(function() {
+(function () {
     function saludar(nombre) {
         console.table("Hola " + nombre); // Hola Logan
     }
